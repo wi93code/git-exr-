@@ -1,4 +1,9 @@
 body{
-	background:rgb(255, 255, 255);
+	background: whitesmoke;
+	display: grid;
+	
+	justify-content: center;
+	
+	
 
 }
