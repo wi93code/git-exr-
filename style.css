@@ -1,9 +1,23 @@
 body{
-	background: whitesmoke;
+	background: url(./image/b9mPD.jpg) no-repeat ;
+	background-size: cover  ;
 	display: grid;
-	
 	justify-content: center;
 	
-	
 
+}
+p{
+	text-align: center;
+	color:yellow;
+	font-size: x-large;
+}
+h1{
+	text-align: center;
+	color:green;
+	font-size: 3em;
+	display: grid;
+	justify-content: left;
+}
+span{
+	color: green;
 }
